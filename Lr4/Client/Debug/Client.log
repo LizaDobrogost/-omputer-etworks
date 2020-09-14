@@ -1,0 +1,25 @@
+﻿  Source.cpp
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(78,12): warning C4476:  'printf' : unknown type field character ')' in format specifier
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(17,1): warning C4996:  'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(1831): message :  see declaration of 'inet_addr'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(28,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(35,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(37,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(50,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(57,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(64,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(65,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(70,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(74,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Client\Source.cpp(79,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  see declaration of 'scanf'
+  Client.vcxproj -> C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Debug\Client.exe

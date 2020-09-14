@@ -1,0 +1,71 @@
+﻿  Source.cpp
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(23,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  see declaration of 'sprintf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(24,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1774): message :  see declaration of 'sprintf'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(64,16): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(68,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(82,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(85,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(88,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(91,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(97,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(98,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(99,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(100,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  see declaration of 'strcat'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(42,6): warning C4101:  'm': unreferenced local variable
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(44,17): warning C4101:  'b': unreferenced local variable
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(40,19): warning C4101:  't': unreferenced local variable
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(111,6): warning C4101:  'status': unreferenced local variable
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(117,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(118,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(119,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(120,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(122,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(123,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(124,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(125,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(127,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(128,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(129,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(130,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(132,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(133,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(134,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(135,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(137,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(138,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(139,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(140,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  see declaration of 'strcpy'
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(68): warning C4700:  uninitialized local variable 'sgn' used
+C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Lr4\Source.cpp(68): warning C4700:  uninitialized local variable 'decpt' used
+  Lr4.vcxproj -> C:\Users\LizaD\OneDrive\Рабочий стол\КС\Lr4\Debug\Lr4.exe
